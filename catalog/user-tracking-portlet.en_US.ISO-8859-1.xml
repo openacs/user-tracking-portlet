@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="user-tracking-portlet" package_version="0.1d" locale="en_US" charset="ISO-8859-1">
+
+  <msg key="Admin_options">Admin Options</msg>
+  <msg key="Community">Community</msg>
+  <msg key="General_Options">General Options</msg>
+  <msg key="in_the_community">in the community</msg>
+  <msg key="see_community_stats">See this community stats</msg>
+  <msg key="see_site_stats">See site stats</msg>
+  <msg key="See_your_community_stats">See your community stats</msg>
+  <msg key="see_your_site_stats">See your site stats</msg>
+  <msg key="See_your_stats">See your stats</msg>
+  <msg key="user_tracking_access_package">User Tracking package access</msg>
+  <msg key="user_tracking_package_access">User tracking package</msg>
+</message_catalog>
