@@ -2,7 +2,7 @@ ad_page_contract {
 
     The display logic for the User Tracking Management admin portlet
     
-    @creation-date 2004-10.25
+    @creation-date 2004-10-25
     @author David Ortega (doa@tid.es)
 
 } -properties {

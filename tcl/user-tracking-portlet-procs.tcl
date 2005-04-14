@@ -2,7 +2,7 @@ ad_library {
 
     Procedures to support the User-tracking Management portlet.
 
-    @creation-date 2004-10.25
+    @creation-date 2004-10-25
     @author David Ortega (doa@tid.es)
 
 }
