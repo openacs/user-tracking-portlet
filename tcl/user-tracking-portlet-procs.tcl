@@ -21,7 +21,7 @@ namespace eval user_tracking_portlet {
 
     ad_proc -public get_pretty_name {
     } {
-        return "[_ user-tracking.user_tracking_portlet]"
+        return "#user-tracking.user_tracking_portlet#"
     }
 
     ad_proc -public link {

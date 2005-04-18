@@ -16,7 +16,7 @@ namespace eval user_tracking_admin_portlet {
 
     ad_proc -public get_pretty_name {
     } {
-        return "[_ user-tracking.admin_portlet]"
+        return "#user-tracking.admin_portlet#"
     }
 
     ad_proc -private my_package_key {
