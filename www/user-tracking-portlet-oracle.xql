@@ -2,12 +2,13 @@
 
 <queryset>
 
-    <rdbms><type>postgresql</type><version>7.1</version></rdbms>
+    <rdbms><type>oracle</type><version>8.1.6</version></rdbms>
+
     <fullquery name="get_user_info">
         <querytext>
     	select first_names , last_name
     	from persons
-    	where person_id=:user_id;
+    	where person_id=:user_id
         </querytext>
     </fullquery>
 
