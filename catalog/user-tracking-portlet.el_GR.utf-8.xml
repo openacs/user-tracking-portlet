@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<message_catalog package_key="user-tracking-portlet" package_version="0.1d2" locale="el_GR" charset="utf-8">
+
+  <msg key="Admin_options">Επιλογές διαχείρισης</msg>
+  <msg key="Community">Κοινότητα</msg>
+  <msg key="General_Options">Γενικές επιλογές</msg>
+  <msg key="in_the_community">εντός της κοινότητας</msg>
+  <msg key="see_community_stats">Δείτε τα στατιστικά της κοινότητας</msg>
+  <msg key="see_site_stats">Δείτε τα στατιστικά του ιστοχώρου</msg>
+  <msg key="See_your_community_stats">Δείτε τα στατιστικά της κοινότητας σας</msg>
+  <msg key="see_your_site_stats">Δείτε τα στατιστικά του ιστοχώρου σας</msg>
+  <msg key="See_your_stats">Δείτε τα στατιστικά σας</msg>
+  <msg key="user_tracking_access_package">Πρόσβαση πακέτου καταγραφής χρήστη</msg>
+  <msg key="user_tracking_package_access">Πακέτο καταγραφής χρήστη</msg>
+</message_catalog>
